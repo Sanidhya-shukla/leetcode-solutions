@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
