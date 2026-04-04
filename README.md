@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/1934-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
