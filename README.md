@@ -38,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
