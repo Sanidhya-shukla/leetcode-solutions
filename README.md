@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0001-two-sum) |
 | [0943-find-the-shortest-superstring](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,4 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
