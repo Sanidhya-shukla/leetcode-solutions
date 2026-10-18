@@ -51,4 +51,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Graph Theory
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
