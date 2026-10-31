@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0001-two-sum) |
+| [0506-relative-ranks](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0943-find-the-shortest-superstring](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0980-unique-paths-iii](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 ## Hash Table
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0980-unique-paths-iii) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Sanidhya-shukla/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
